@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.oracle.tablespace-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.tablespace-name'"
+  },
+  {
+    "name": "spring.oracle.temp-tablespace-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.oracle.temp-tablespace-name'"
+  }
+]}
